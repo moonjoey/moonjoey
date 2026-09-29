@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Joey 👋
 
-<!--
-**moonjoey/moonjoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. in Applied Data Science @ University of Chicago  
+🎓 B.B.A. @ National Chengchi University  
+📍 Chicago, IL  
+🔍 Seeking Data Science / Analytics / Product Management internship opportunities
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, R, SQL
+- **ML/AI:** Scikit-learn
+- **Data Tools:** Pandas, NumPy
+- **Visualization:** Tableau, Power BI
+- **Other:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Time Series Deep Learning
+- LLMs
+
+## 📫 Contact
+- LinkedIn: [Mu-En Chen](https://www.linkedin.com/in/mu-en-chen-45ab8b29a/)
+- Email: joey20030316@gmail.com
